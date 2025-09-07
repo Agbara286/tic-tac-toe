@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="Annotation 2025-09-07 191612" src="https://github.com/user-attachments/assets/8a221ad0-4ab2-4804-95c2-54c8719cc2f9" /># 🎲 Tic Tac Toe
+<img width="1600" height="900" alt="Annotation 2025-09-07 191614" src="https://github.com/user-attachments/assets/8d9378dc-7361-41f6-9b6a-bd5c2329b9a0" /><img width="1600" height="900" alt="Annotation 2025-09-07 191612" src="https://github.com/user-attachments/assets/8a221ad0-4ab2-4804-95c2-54c8719cc2f9" /># 🎲 Tic Tac Toe
 
 A simple and interactive **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaScript**.  
 Challenge a friend locally and see who wins!
@@ -45,7 +45,9 @@ If all squares are filled with no winner, the game ends in a draw.
 Use the Reset button to start a new round.
 
 📸 Screenshot
-<img src="<img width="1600" height="900" alt="Annotation 2025-09-07 191612" src="https://github.com/user-attachments/assets/ed4b9585-855a-4d8b-ae7a-848eb3fa4790" />
+<img src="<img width="800" height="450" alt="Annotation 2025-09-07 191612" src="https://github.com/user-attachments/assets/ed4b9585-855a-4d8b-ae7a-848eb3fa4790" />
 " alt="Tic Tac Toe Screenshot" width="300">
-<img src="![Uploading Annotation 2025-09-07 191614.png…]()
+
+<img src="<img width="800" height="450" alt="Annotation 2025-09-07 191614" src="https://github.com/user-attachments/assets/5f6c06ea-6fc0-4d21-a565-2be36411597f" />
+
 " alt="Tic Tac Toe Screenshot" width="300">
