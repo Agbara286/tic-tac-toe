@@ -47,4 +47,5 @@ Use the Reset button to start a new round.
 📸 Screenshot
 <img src="<img width="1600" height="900" alt="Annotation 2025-09-07 191612" src="https://github.com/user-attachments/assets/ed4b9585-855a-4d8b-ae7a-848eb3fa4790" />
 " alt="Tic Tac Toe Screenshot" width="300">
-<img src="" alt="Tic Tac Toe Screenshot" width="300">
+<img src="![Uploading Annotation 2025-09-07 191614.png…]()
+" alt="Tic Tac Toe Screenshot" width="300">
